@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hubili
-- 👀 I’m interested in socoer
+- 👀 I’m interested in soccer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on wow
 - 📫 How to reach me hbl825@163.com
